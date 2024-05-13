@@ -31,9 +31,11 @@ Ensure that you have Python installed on your system before proceeding with the 
 
 To use this implementation, follow these steps:
 
-1. Clone the repository: https://github.com/Ragheed7/steepest-descent-optimization.git
-2. Navigate to the repository directory: cd steepest-descent-optimization
-3. Run the optimization script: `steepest_descent.py`
+1. Ensure Python 3.x is installed on your system.
+2. Install required packages if not already installed: `pip install autograd numpy`
+3. Save the script in a .py file.
+4. Enter your objective function, and initial Point.
+5. Run the optimization script: `steepest_descent.py`
 
 ## Results
 
